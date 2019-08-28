@@ -1,1 +1,1 @@
-# Sample1
+# applet and swing example
